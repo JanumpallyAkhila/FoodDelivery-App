@@ -11,6 +11,6 @@
 
 ![Screenshot 2024-05-04 183321](https://github.com/JanumpallyAkhila/FoodDelivery-App/assets/143389053/71b1b085-2f70-454b-850c-33af7eb6b5e9)
 
-![Screenshot 2024-05-04 194815](https://github.com/JanumpallyAkhila/FoodDelivery-App/assets/143389053/05667d4a-2fbb-419a-9fd9-b4f5f8a55109)
+![Screenshot 2024-05-04 231949](https://github.com/JanumpallyAkhila/FoodDelivery-App/assets/143389053/57ccf39f-2399-4e50-b125-9d278bef4465)
 
 ![Screenshot 2024-05-04 194924](https://github.com/JanumpallyAkhila/FoodDelivery-App/assets/143389053/7836bab3-ff8f-46c1-af03-f044b5cfc0e1)
